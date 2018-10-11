@@ -43,7 +43,7 @@ created instance. You can disable that behavior by passing in the
 '--no-connect' flag.""")
 
 
-_DATALAB_NETWORK = 'datalab-network'
+_DATALAB_NETWORK = 'default'
 _DATALAB_NETWORK_DESCRIPTION = 'Network for Google Cloud Datalab instances'
 
 _DATALAB_FIREWALL_RULE_TEMPLATE = '{0}-allow-ssh'
